@@ -6,7 +6,7 @@ certifi==2017.4.17
 cssselect==1.0.1
 decorator==4.0.11
 dj-pagination==2.2.1
-Django==1.11
+Django==1.11.29
 django-allauth==0.32.0
 django-auditlog==0.4.3
 -e git+https://github.com/helber/django-dbsettings.git@5bcd8bbabd71a5550cf6815473691d033991284d#egg=django_dbsettings
